@@ -48,7 +48,9 @@ If both the user and computer choose the same option, the result is a **Draw**.
 ## Example Output
 
 Enter snake, water or gun to play the game: snake
+
 Computer Choice: water
+
 You win!
 
 
